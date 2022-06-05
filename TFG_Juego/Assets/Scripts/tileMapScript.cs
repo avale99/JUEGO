@@ -178,8 +178,7 @@ public class tileMapScript : MonoBehaviour
                 tiles[x, y] = 0;
             }
         }
-        
-        
+
         int i = PlayerPrefs.GetInt("Mapa");
         if(i==1){
             first_map();
