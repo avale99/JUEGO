@@ -374,11 +374,12 @@
 "Assets/Scripts/Tile.cs"
 "Assets/Scripts/UnitScript.cs"
 "Assets/Scripts/audioDestroy.cs"
-"Assets/Scripts/audioKeep.cs"
 "Assets/Scripts/battleManagerScript.cs"
 "Assets/Scripts/camShakeScript.cs"
 "Assets/Scripts/gameManagerScript.cs"
 "Assets/Scripts/gameSceneManager.cs"
+"Assets/Scripts/settings.cs"
+"Assets/Scripts/settingsMenu.cs"
 "Assets/Scripts/tileMapScript.cs"
 -langversion:9.0
 

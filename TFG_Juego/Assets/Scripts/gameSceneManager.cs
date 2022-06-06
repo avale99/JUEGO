@@ -7,12 +7,6 @@ public class gameSceneManager : MonoBehaviour
 {
     private string mapa="Mapa" ;
 
-    //This was just used to load menu stuff properly and change scenes
-    
-    public Canvas mainCanvas;
-    public Canvas helpCanvas;
-    public Canvas helpCanvas2;
-    // Start is called before the first frame update
     public void loadMainMenu()
     {
         SceneManager.LoadScene(0);
@@ -23,29 +17,9 @@ public class gameSceneManager : MonoBehaviour
         SceneManager.LoadScene(1);
     }
 
-    public void loadHelpCanvas()
+    public void loadSettings()
     {
-        mainCanvas.enabled = false;
-        helpCanvas.enabled = true;
-    }
-
-    public void loadHelpCanvasBack()
-    {
-        helpCanvas2.enabled = false;
-        helpCanvas.enabled = true;
-    }
-
-    public void loadHelpCanvas2()
-    {
-        helpCanvas.enabled = false;
-        helpCanvas2.enabled = true;
-    }
-
-    public void loadMainCanvas()
-    {
-        mainCanvas.enabled = true;
-        helpCanvas.enabled = false;
-        helpCanvas2.enabled = false;
+        SceneManager.LoadScene(3);
     }
 
     public void cargaMapa1(){

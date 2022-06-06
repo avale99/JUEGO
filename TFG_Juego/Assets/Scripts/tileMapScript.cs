@@ -1004,14 +1004,15 @@ public class tileMapScript : MonoBehaviour
             }
             neighbourHash = tempNeighbourHash;
             tempNeighbourHash = new HashSet<Node>();
-            if (i < attRange - 1)
+            if (i < attRange)
             {
                 seenNodes.UnionWith(neighbourHash);
             }
         }
-        neighbourHash.ExceptWith(seenNodes);
-        neighbourHash.Remove(initialNode);
-        return neighbourHash;
+        //neighbourHash.ExceptWith(seenNodes);
+        //neighbourHash.Remove(initialNode);
+        //return neighbourHash;
+        return seenNodes;
     }
 
     //In:  
