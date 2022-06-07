@@ -338,6 +338,7 @@
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/ClickableTileScript.cs"
 "Assets/Scripts/Node.cs"
+"Assets/Scripts/PauseMenu.cs"
 "Assets/Scripts/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs"
 "Assets/Scripts/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs"
 "Assets/Scripts/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs"

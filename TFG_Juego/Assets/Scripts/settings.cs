@@ -2,14 +2,35 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.Audio;
 using UnityEngine;
+using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
 public class settings : MonoBehaviour
 {
-    public AudioMixer controlVolumen;
+    [SerializeField] Slider volumeSlider;
 
-    public void SetVolume(float volume){
-        controlVolumen.SetFloat("volumen", volume);
+    void Start(){
+        if(!PlayerPrefs.HasKey("musicVolume")){
+            PlayerPrefs.SetFloat("musicVolume", 1);
+            Load();
+        }
+
+        else{
+            Load();
+        }
+    }
+
+    public void SetVolume(){
+        AudioListener.volume = volumeSlider.value;
+        Save();
+    }
+
+    private void Load(){
+        volumeSlider.value = PlayerPrefs.GetFloat("musicVolume");
+    }
+    
+    private void Save(){
+        PlayerPrefs.SetFloat("musicVolume", volumeSlider.value);
     }
 
     public void SetFullScreen(bool isFullScreen){
