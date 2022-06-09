@@ -7,6 +7,7 @@ public class camShakeScript : MonoBehaviour
 
     public IEnumerator camShake(float duration,float camShakeStrength,Vector3 direction)
     {
+        
         float updatedShakeStrength = camShakeStrength;
         if (camShakeStrength > 10)
         {
@@ -28,9 +29,7 @@ public class camShakeScript : MonoBehaviour
             yield return new WaitForEndOfFrame();
 
         }
-
-        
-           
             
     }
+    
 }

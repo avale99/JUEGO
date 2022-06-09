@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class ClickableTileScript : MonoBehaviour    
 {
+    
     //The x and y co-ordinate of the tile
     public int tileX;
     public int tileY;
@@ -11,17 +12,4 @@ public class ClickableTileScript : MonoBehaviour
     public GameObject unitOnTile;
     public tileMapScript map;
 
-
-    /*
-     * This was used in Quill18Create'sTutorial, I no longer use this portion
-    private void OnMouseDown()
-    {
-       
-        Debug.Log("tile has been clicked");
-        if (map.selectedUnit != null)
-        {
-            map.generatePathTo(tileX, tileY);
-        }
-        
-    }*/
 }
