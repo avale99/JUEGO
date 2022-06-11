@@ -182,7 +182,7 @@ public class gameManagerScript : MonoBehaviour
     //Desc: sets the current player Text in the UI
     public void setCurrentTeamUI()
     {
-        currentTeamUI.SetText("Current Player is : Player " + (currentTeam+1).ToString());
+        currentTeamUI.SetText("Jugador actual: " + (currentTeam+1).ToString());
     }
 
     //In: 
@@ -239,12 +239,12 @@ public class gameManagerScript : MonoBehaviour
             if (currentTeam == 1)
             {
                 playerPhaseAnim.SetTrigger("slideLeftTrigger");
-                playerPhaseText.SetText("Player 2 Phase");
+                playerPhaseText.SetText("Turno del Jugador 2");
             }
             else if (currentTeam == 0)
             {
                 playerPhaseAnim.SetTrigger("slideRightTrigger");
-                playerPhaseText.SetText("Player 1 Phase");
+                playerPhaseText.SetText("Turno del Jugador 1");
             }
             teamHealthbarColorUpdate();
             setCurrentTeamUI();
@@ -762,14 +762,14 @@ public class gameManagerScript : MonoBehaviour
         if (team1.transform.childCount == 0)
         {
             displayWinnerUI.enabled = true;
-            displayWinnerUI.GetComponentInChildren<TextMeshProUGUI>().SetText("Player 2 has won!");
+            displayWinnerUI.GetComponentInChildren<TextMeshProUGUI>().SetText("El jugador 2 ha ganado!");
            
             
         }
         else if (team2.transform.childCount == 0)
         {
             displayWinnerUI.enabled = true;
-            displayWinnerUI.GetComponentInChildren<TextMeshProUGUI>().SetText("Player 1 has won!");
+            displayWinnerUI.GetComponentInChildren<TextMeshProUGUI>().SetText("El jugador 1 ha ganado!");
 
           
         }
@@ -785,7 +785,7 @@ public class gameManagerScript : MonoBehaviour
     public void win()
     {
         displayWinnerUI.enabled = true;
-        displayWinnerUI.GetComponentInChildren<TextMeshProUGUI>().SetText("Winner!");
+        displayWinnerUI.GetComponentInChildren<TextMeshProUGUI>().SetText("Ganador!");
 
     }
 

@@ -1,555 +1,549 @@
 { "pid": 0, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "BeeDriver" } },
 { "pid": 0, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-2" } },
 { "pid": 0, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
-{ "pid": 0, "tid": 1, "ts": 1654591229171315, "dur": 8437772, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1654591229172827, "dur": 13868, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1654591229186851, "dur": 32042, "ph": "X", "name": "Run Backend", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1654591229218969, "dur": 386911, "ph": "X", "name": "BuildProgram", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1654591229605884, "dur": 7992895, "ph": "X", "name": "Run Backend", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1654591237598803, "dur": 10283, "ph": "X", "name": "Finish", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1654591709698865, "dur": 1010187, "ph": "X", "name": "Build Player", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1654591709699867, "dur": 6683, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1654591709706554, "dur": 40195, "ph": "X", "name": "Run Backend", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1654591709746753, "dur": 656421, "ph": "X", "name": "BuildProgram", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1654591710403180, "dur": 304695, "ph": "X", "name": "Run Backend", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1654591710707880, "dur": 1171, "ph": "X", "name": "Finish", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1654591710709416, "dur": 48, "ph": "X", "name": "", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654957085686422, "dur": 394717, "ph": "X", "name": "Build ScriptAssemblies", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654957085689598, "dur": 27674, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654957085717514, "dur": 353240, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654957086070781, "dur": 10356, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654957093200072, "dur": 547452, "ph": "X", "name": "Build Player", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654957093200490, "dur": 7111, "ph": "X", "name": "WriteBuildProgramData", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654957093207605, "dur": 35351, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654957093243936, "dur": 339209, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654957093583150, "dur": 163232, "ph": "X", "name": "Run Backend", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654957093746387, "dur": 1137, "ph": "X", "name": "Finish", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654957093747821, "dur": 50, "ph": "X", "name": "", "args": {} },
 { "pid": 35942, "tid": -1, "ph": "M", "name": "process_name", "args": { "name": "netcorerun.dll" } },
 { "pid": 35942, "tid": -1, "ph": "M", "name": "process_sort_index", "args": { "sort_index": "-1" } },
 { "pid": 35942, "tid": 1, "ph": "M", "name": "thread_name", "args": { "name": "" } },
-{ "pid": 35942, "tid": 1, "ts": 1654591710017775, "dur": 320682, "ph": "X", "name": "BuildProgram", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1654591710021666, "dur": 167480, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1654591710299728, "dur": 9831, "ph": "X", "name": "OutputData.Write", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1654591710309566, "dur": 28875, "ph": "X", "name": "Backend.Write", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1654591710311565, "dur": 26350, "ph": "X", "name": "JsonToString", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1654591710353571, "dur": 3247, "ph": "X", "name": "", "args": {} },
-{ "pid": 35942, "tid": 1, "ts": 1654591710352527, "dur": 4355, "ph": "X", "name": "Write chrome-trace events", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1654591710709725, "dur": 117, "ph": "X", "name": "buildprogram0.traceevents", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1654957093370608, "dur": 181177, "ph": "X", "name": "BuildProgram", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1654957093371944, "dur": 65053, "ph": "X", "name": "BuildProgramContextConstructor", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1654957093513720, "dur": 9418, "ph": "X", "name": "OutputData.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1654957093523145, "dur": 28621, "ph": "X", "name": "Backend.Write", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1654957093525647, "dur": 25479, "ph": "X", "name": "JsonToString", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1654957093567643, "dur": 3239, "ph": "X", "name": "", "args": {} },
+{ "pid": 35942, "tid": 1, "ts": 1654957093566638, "dur": 4305, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654957093748034, "dur": 150, "ph": "X", "name": "buildprogram0.traceevents", "args": {} },
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
-,{ "pid":12345, "tid":0, "ts":1654591710447681, "dur":2498, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710450211, "dur":28, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
-,{ "pid":12345, "tid":0, "ts":1654591710450255, "dur":24, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
-,{ "pid":12345, "tid":0, "ts":1654591710450279, "dur":433, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
-,{ "pid":12345, "tid":0, "ts":1654591710450752, "dur":1231, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710451983, "dur":5, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710701132, "dur":63, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710701196, "dur":32, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710701228, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710701230, "dur":128, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710701358, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710701360, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710701367, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710701367, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710701373, "dur":18, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710701391, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710701399, "dur":11, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710701410, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710701418, "dur":9, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710701427, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710701434, "dur":10, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710701444, "dur":10, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710701455, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710701469, "dur":5, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710701475, "dur":696, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
-,{ "pid":12345, "tid":1, "ts":1654591710450425, "dur":1620, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1654591710452051, "dur":1453, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1654591710453511, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/LinuxPlayerBuildProgram/Data/app.info" }}
-,{ "pid":12345, "tid":1, "ts":1654591710453522, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1654591710457033, "dur":103, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/LinuxPlayerBuildProgram/Data/app.info" }}
-,{ "pid":12345, "tid":1, "ts":1654591710457143, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":1, "ts":1654591710457165, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1654591710457461, "dur":997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":1, "ts":1654591710458474, "dur":895, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.VRModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1654591710459374, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1654591710459381, "dur":127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.VRModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1654591710459512, "dur":2214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
-,{ "pid":12345, "tid":1, "ts":1654591710461732, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1654591710461739, "dur":157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
-,{ "pid":12345, "tid":1, "ts":1654591710461902, "dur":1308, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Device.dll" }}
-,{ "pid":12345, "tid":1, "ts":1654591710463214, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1654591710463226, "dur":183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Device.dll" }}
-,{ "pid":12345, "tid":1, "ts":1654591710463415, "dur":2341, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1654591710465792, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1654591710465803, "dur":320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1654591710466130, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":1, "ts":1654591710466149, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1654591710466251, "dur":2671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":1, "ts":1654591710468938, "dur":3580, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1654591710472523, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1654591710472531, "dur":158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1654591710472693, "dur":46750, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/mscorlib.dll" }}
-,{ "pid":12345, "tid":1, "ts":1654591710519449, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1654591710519457, "dur":14237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/mscorlib.dll" }}
-,{ "pid":12345, "tid":1, "ts":1654591710533699, "dur":3194, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.IMGUIModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1654591710536900, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1654591710536909, "dur":581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.IMGUIModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1654591710537496, "dur":2565, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1654591710540068, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1654591710540079, "dur":323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1654591710540409, "dur":2127, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
-,{ "pid":12345, "tid":1, "ts":1654591710542568, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1654591710542687, "dur":140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
-,{ "pid":12345, "tid":1, "ts":1654591710542834, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/sharedassets3.assets" }}
-,{ "pid":12345, "tid":1, "ts":1654591710542847, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1654591710542855, "dur":173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/sharedassets3.assets" }}
-,{ "pid":12345, "tid":1, "ts":1654591710543034, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/level3.resS" }}
-,{ "pid":12345, "tid":1, "ts":1654591710543045, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1654591710543052, "dur":6943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/level3.resS" }}
-,{ "pid":12345, "tid":1, "ts":1654591710550002, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so" }}
-,{ "pid":12345, "tid":1, "ts":1654591710550035, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1654591710550047, "dur":55591, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so" }}
-,{ "pid":12345, "tid":1, "ts":1654591710605656, "dur":5224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UIModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1654591710610889, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1654591710610903, "dur":259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UIModule.dll" }}
-,{ "pid":12345, "tid":1, "ts":1654591710611170, "dur":89979, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710450468, "dur":1622, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710452091, "dur":1469, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710453561, "dur":3144, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Xml.Linq.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710456711, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710457698, "dur":547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Xml.Linq.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710458258, "dur":817, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.5/web.config" }}
-,{ "pid":12345, "tid":2, "ts":1654591710459084, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710459135, "dur":154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.5/web.config" }}
-,{ "pid":12345, "tid":2, "ts":1654591710459295, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/browscap.ini" }}
-,{ "pid":12345, "tid":2, "ts":1654591710459303, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710459310, "dur":3800, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/browscap.ini" }}
-,{ "pid":12345, "tid":2, "ts":1654591710463117, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":2, "ts":1654591710463166, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710463298, "dur":1196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":2, "ts":1654591710464504, "dur":4087, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710468597, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710468605, "dur":479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710469090, "dur":1484, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710470583, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710470593, "dur":213, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710470812, "dur":1500, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710472319, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710472329, "dur":192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710472527, "dur":1185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710473719, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710473729, "dur":138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710473871, "dur":3940, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710477817, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710477824, "dur":143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710477972, "dur":4346, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710482325, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710482333, "dur":174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710482511, "dur":6616, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Security.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710489133, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710489141, "dur":955, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Security.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710490104, "dur":1748, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710491857, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710491863, "dur":144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710492012, "dur":4040, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710496057, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710496064, "dur":202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710496270, "dur":29297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/System.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710525575, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710525586, "dur":7126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/System.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710532718, "dur":2048, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710534773, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710534784, "dur":192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710534983, "dur":1403, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.HotReloadModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710536392, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710536401, "dur":164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.HotReloadModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710536571, "dur":1546, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.ProGrids.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710538124, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710538133, "dur":140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.ProGrids.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710538277, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/sharedassets3.assets.resS" }}
-,{ "pid":12345, "tid":2, "ts":1654591710538286, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710538291, "dur":198, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/sharedassets3.assets.resS" }}
-,{ "pid":12345, "tid":2, "ts":1654591710538493, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/resources.assets.resS" }}
-,{ "pid":12345, "tid":2, "ts":1654591710538500, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710538505, "dur":39227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/resources.assets.resS" }}
-,{ "pid":12345, "tid":2, "ts":1654591710577743, "dur":2949, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710580702, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710580744, "dur":223, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1654591710580975, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/globalgamemanagers" }}
-,{ "pid":12345, "tid":2, "ts":1654591710580988, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710580995, "dur":5616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/globalgamemanagers" }}
-,{ "pid":12345, "tid":2, "ts":1654591710586620, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":2, "ts":1654591710586632, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1654591710586642, "dur":23685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":2, "ts":1654591710610333, "dur":90774, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710450488, "dur":1615, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710452103, "dur":1427, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710453531, "dur":3217, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/System.IO.Compression.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710456756, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710457704, "dur":529, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/System.IO.Compression.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710458240, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/x86_64/libMonoPosixHelper.so" }}
-,{ "pid":12345, "tid":3, "ts":1654591710458251, "dur":47, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710458499, "dur":4046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/x86_64/libMonoPosixHelper.so" }}
-,{ "pid":12345, "tid":3, "ts":1654591710462556, "dur":10196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Core.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710472759, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710472768, "dur":4057, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Core.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710476833, "dur":4303, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.TerrainModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710481143, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710481154, "dur":483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.TerrainModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710481644, "dur":2138, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710483828, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710483840, "dur":161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710484006, "dur":15738, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UIElementsModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710499750, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710499758, "dur":2662, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UIElementsModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710502427, "dur":9073, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710511506, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710511513, "dur":425, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710511943, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/config" }}
-,{ "pid":12345, "tid":3, "ts":1654591710511956, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710511976, "dur":3481, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/config" }}
-,{ "pid":12345, "tid":3, "ts":1654591710515467, "dur":4447, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710519921, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710519977, "dur":245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710520230, "dur":1812, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UmbraModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710522053, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710522065, "dur":184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UmbraModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710522257, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/level2" }}
-,{ "pid":12345, "tid":3, "ts":1654591710522270, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710522277, "dur":2433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/level2" }}
-,{ "pid":12345, "tid":3, "ts":1654591710524717, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/app.info" }}
-,{ "pid":12345, "tid":3, "ts":1654591710524731, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710524740, "dur":240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/app.info" }}
-,{ "pid":12345, "tid":3, "ts":1654591710524982, "dur":2022, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Threading.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710527013, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710527026, "dur":188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Threading.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710527221, "dur":1443, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710528670, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710528680, "dur":170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710528858, "dur":1170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710530036, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710530059, "dur":167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710530233, "dur":812, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.TLSModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710531054, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710531064, "dur":184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.TLSModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710531255, "dur":1994, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.SubstanceModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710533257, "dur":9, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710533274, "dur":175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.SubstanceModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710533456, "dur":1351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.LocalizationModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710534814, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710534824, "dur":146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.LocalizationModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710534975, "dur":39514, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Xml.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710574494, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710574501, "dur":10242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Xml.dll" }}
-,{ "pid":12345, "tid":3, "ts":1654591710584752, "dur":2044, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":3, "ts":1654591710586806, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710586817, "dur":141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":3, "ts":1654591710586963, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/sharedassets2.assets.resS" }}
-,{ "pid":12345, "tid":3, "ts":1654591710586970, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710586975, "dur":21400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/sharedassets2.assets.resS" }}
-,{ "pid":12345, "tid":3, "ts":1654591710608388, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/boot.config" }}
-,{ "pid":12345, "tid":3, "ts":1654591710608439, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1654591710608448, "dur":146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/boot.config" }}
-,{ "pid":12345, "tid":3, "ts":1654591710608599, "dur":92593, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710450566, "dur":1546, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710452113, "dur":1406, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710453522, "dur":1483, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.AIModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710455013, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710457170, "dur":275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.AIModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710457452, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":4, "ts":1654591710457469, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710457559, "dur":441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":4, "ts":1654591710458011, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":4, "ts":1654591710458026, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710458047, "dur":1022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":4, "ts":1654591710459075, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":4, "ts":1654591710459084, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710459110, "dur":1838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":4, "ts":1654591710460954, "dur":2002, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710462960, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710462967, "dur":211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710463213, "dur":2414, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710465635, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710465645, "dur":277, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710465929, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Resources/UnityPlayer.png" }}
-,{ "pid":12345, "tid":4, "ts":1654591710465941, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710465955, "dur":226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Resources/UnityPlayer.png" }}
-,{ "pid":12345, "tid":4, "ts":1654591710466187, "dur":5465, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Configuration.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710471659, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710471669, "dur":384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Configuration.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710472060, "dur":1124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.InputModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710473216, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710473226, "dur":141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.InputModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710473372, "dur":989, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.WindModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710474365, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710474372, "dur":154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.WindModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710474532, "dur":3454, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Internal.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710477994, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710478003, "dur":274, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Internal.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710478283, "dur":1849, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.GIModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710480137, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710480144, "dur":164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.GIModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710480314, "dur":7553, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Drawing.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710487875, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710487885, "dur":1655, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Drawing.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710489547, "dur":2909, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710492463, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710492471, "dur":129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710492605, "dur":3116, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.StreamingModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710495727, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710495736, "dur":148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.StreamingModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710495889, "dur":2013, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710497909, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710497916, "dur":157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710498080, "dur":23755, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Data.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710521843, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710521855, "dur":7053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Data.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710528915, "dur":4773, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710533696, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710533706, "dur":966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710534677, "dur":1095, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Analytics.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710535780, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710535792, "dur":164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Analytics.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710535964, "dur":2226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Registration.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710538198, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710538208, "dur":139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Registration.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710538351, "dur":3463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.VFXModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710541843, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710541850, "dur":184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.VFXModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710542039, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/level0.resS" }}
-,{ "pid":12345, "tid":4, "ts":1654591710542047, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710542052, "dur":7206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/level0.resS" }}
-,{ "pid":12345, "tid":4, "ts":1654591710549265, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/x86_64/libmono-native.so" }}
-,{ "pid":12345, "tid":4, "ts":1654591710549278, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710549289, "dur":34371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/x86_64/libmono-native.so" }}
-,{ "pid":12345, "tid":4, "ts":1654591710583676, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/globalgamemanagers.assets" }}
-,{ "pid":12345, "tid":4, "ts":1654591710583692, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710583703, "dur":453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/globalgamemanagers.assets" }}
-,{ "pid":12345, "tid":4, "ts":1654591710584164, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":4, "ts":1654591710584234, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710584241, "dur":138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":4, "ts":1654591710584387, "dur":5218, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710589615, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710589627, "dur":372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710590006, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/level1.resS" }}
-,{ "pid":12345, "tid":4, "ts":1654591710590018, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710590026, "dur":8423, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/level1.resS" }}
-,{ "pid":12345, "tid":4, "ts":1654591710598458, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/level3" }}
-,{ "pid":12345, "tid":4, "ts":1654591710598468, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710598477, "dur":3540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/level3" }}
-,{ "pid":12345, "tid":4, "ts":1654591710602026, "dur":15227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.CoreModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710617262, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1654591710617271, "dur":4740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.CoreModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1654591710622018, "dur":79103, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710450578, "dur":1548, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710452126, "dur":1409, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710453537, "dur":1849, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710455417, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710457641, "dur":215, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710457863, "dur":707, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
-,{ "pid":12345, "tid":5, "ts":1654591710458575, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710458582, "dur":152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
-,{ "pid":12345, "tid":5, "ts":1654591710458739, "dur":987, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
-,{ "pid":12345, "tid":5, "ts":1654591710459733, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710459743, "dur":200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
-,{ "pid":12345, "tid":5, "ts":1654591710459950, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":5, "ts":1654591710459959, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710459966, "dur":3000, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":5, "ts":1654591710462977, "dur":952, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710463937, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710463950, "dur":172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710464130, "dur":1503, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710465642, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710465655, "dur":185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710465846, "dur":1961, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Networking.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710467814, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710467825, "dur":165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Networking.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710468018, "dur":3674, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.TilemapModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710471699, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710471709, "dur":246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.TilemapModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710471961, "dur":2456, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Transactions.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710474423, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710474431, "dur":207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Transactions.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710474642, "dur":9124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/Newtonsoft.Json.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710483773, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710483823, "dur":1828, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/Newtonsoft.Json.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710485655, "dur":6012, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.PhysicsModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710491674, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710491682, "dur":334, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.PhysicsModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710492021, "dur":7307, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/Mono.Security.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710499335, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710499345, "dur":642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/Mono.Security.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710499992, "dur":5517, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/System.EnterpriseServices.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710505516, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710505525, "dur":265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/System.EnterpriseServices.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710505797, "dur":5058, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710510893, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710510903, "dur":189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710511097, "dur":2460, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710513565, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710513575, "dur":149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710513729, "dur":6226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Numerics.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710519981, "dur":10, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710519999, "dur":492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Numerics.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710520496, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/sharedassets2.assets" }}
-,{ "pid":12345, "tid":5, "ts":1654591710520504, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710520509, "dur":6633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/sharedassets2.assets" }}
-,{ "pid":12345, "tid":5, "ts":1654591710527149, "dur":1873, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.VideoModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710529027, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710529034, "dur":171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.VideoModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710529209, "dur":4128, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.AnimationModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710533342, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710533349, "dur":564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.AnimationModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710533920, "dur":2434, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Data.DataSetExtensions.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710536359, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710536367, "dur":168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Data.DataSetExtensions.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710536540, "dur":12165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Runtime.Serialization.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710548715, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710548727, "dur":2814, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Runtime.Serialization.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710551551, "dur":2949, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.DirectorModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710554509, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710554521, "dur":199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.DirectorModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1654591710554728, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/sharedassets1.assets.resS" }}
-,{ "pid":12345, "tid":5, "ts":1654591710554740, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1654591710554747, "dur":83619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/sharedassets1.assets.resS" }}
-,{ "pid":12345, "tid":5, "ts":1654591710638377, "dur":62763, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710450660, "dur":1477, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710452137, "dur":1368, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710453511, "dur":2305, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710455821, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710457675, "dur":798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710458485, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
-,{ "pid":12345, "tid":6, "ts":1654591710458504, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710458522, "dur":893, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
-,{ "pid":12345, "tid":6, "ts":1654591710459425, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/config" }}
-,{ "pid":12345, "tid":6, "ts":1654591710459438, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710459445, "dur":573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/config" }}
-,{ "pid":12345, "tid":6, "ts":1654591710460029, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego.x86_64" }}
-,{ "pid":12345, "tid":6, "ts":1654591710460056, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710460064, "dur":2066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego.x86_64" }}
-,{ "pid":12345, "tid":6, "ts":1654591710462140, "dur":1031, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.GridModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710463178, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710463190, "dur":180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.GridModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710463378, "dur":1092, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710464478, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710464490, "dur":207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710464703, "dur":2456, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.ProfilerModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710467167, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710467179, "dur":232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.ProfilerModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710467419, "dur":3621, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710471047, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710471057, "dur":199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710471264, "dur":2590, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.XRModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710473863, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710473873, "dur":324, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.XRModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710474204, "dur":2351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/netstandard.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710476566, "dur":7, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710476583, "dur":314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/netstandard.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710476902, "dur":2274, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710479184, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710479197, "dur":174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710479377, "dur":4086, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710483469, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710483476, "dur":159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710483640, "dur":1695, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Configuration.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710485344, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710485356, "dur":195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Configuration.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710485559, "dur":3351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710488917, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710488925, "dur":141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710489072, "dur":4606, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.GameCenterModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710493686, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710493696, "dur":189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.GameCenterModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710493889, "dur":2631, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.VehiclesModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710496528, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710496539, "dur":197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.VehiclesModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710496743, "dur":4596, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710501345, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710501352, "dur":308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710501665, "dur":5148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710506819, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710506827, "dur":154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710506985, "dur":2912, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710509904, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710509914, "dur":127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710510048, "dur":3902, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710513959, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710513972, "dur":476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710514455, "dur":7669, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/System.ServiceModel.Internals.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710522131, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710522141, "dur":889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/System.ServiceModel.Internals.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710523039, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/level0" }}
-,{ "pid":12345, "tid":6, "ts":1654591710523049, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710523055, "dur":1138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/level0" }}
-,{ "pid":12345, "tid":6, "ts":1654591710524204, "dur":1367, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.ClothModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710525578, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710525588, "dur":174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.ClothModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710525768, "dur":2555, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710528331, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710528342, "dur":228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710528579, "dur":682, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Environments.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710529268, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710529305, "dur":134, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/Unity.Services.Core.Environments.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710529446, "dur":4709, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.Physics2DModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710534160, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710534166, "dur":435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.Physics2DModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710534608, "dur":3262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.AudioModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710537904, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710537914, "dur":377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.AudioModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710538297, "dur":2505, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710540811, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710540823, "dur":168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710540998, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Resources/unity_builtin_extra" }}
-,{ "pid":12345, "tid":6, "ts":1654591710541014, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710541027, "dur":2015, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Resources/unity_builtin_extra" }}
-,{ "pid":12345, "tid":6, "ts":1654591710543050, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/level1" }}
-,{ "pid":12345, "tid":6, "ts":1654591710543060, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710543067, "dur":2416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/level1" }}
-,{ "pid":12345, "tid":6, "ts":1654591710545493, "dur":6596, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UNETModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710552098, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710552111, "dur":412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UNETModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1654591710552528, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/sharedassets1.assets" }}
-,{ "pid":12345, "tid":6, "ts":1654591710552537, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710552542, "dur":117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/sharedassets1.assets" }}
-,{ "pid":12345, "tid":6, "ts":1654591710552663, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/resources.assets" }}
-,{ "pid":12345, "tid":6, "ts":1654591710552670, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1654591710552674, "dur":61121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/resources.assets" }}
-,{ "pid":12345, "tid":6, "ts":1654591710613802, "dur":87308, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1654591710450675, "dur":1526, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1654591710452201, "dur":1326, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1654591710453530, "dur":1580, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/System.IO.Compression.FileSystem.dll" }}
-,{ "pid":12345, "tid":7, "ts":1654591710455118, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1654591710457682, "dur":216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/System.IO.Compression.FileSystem.dll" }}
-,{ "pid":12345, "tid":7, "ts":1654591710457906, "dur":968, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":7, "ts":1654591710458879, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1654591710458893, "dur":119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":7, "ts":1654591710459018, "dur":795, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":7, "ts":1654591710459818, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1654591710459824, "dur":133, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":7, "ts":1654591710459963, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Resources/unity default resources" }}
-,{ "pid":12345, "tid":7, "ts":1654591710459972, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1654591710460032, "dur":47242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Resources/unity default resources" }}
-,{ "pid":12345, "tid":7, "ts":1654591710507286, "dur":10030, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/System.ComponentModel.Composition.dll" }}
-,{ "pid":12345, "tid":7, "ts":1654591710517328, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1654591710517341, "dur":663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/System.ComponentModel.Composition.dll" }}
-,{ "pid":12345, "tid":7, "ts":1654591710518010, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/sharedassets0.resource" }}
-,{ "pid":12345, "tid":7, "ts":1654591710518019, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1654591710518024, "dur":53795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/sharedassets0.resource" }}
-,{ "pid":12345, "tid":7, "ts":1654591710571827, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/sharedassets0.assets" }}
-,{ "pid":12345, "tid":7, "ts":1654591710571835, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1654591710571842, "dur":17956, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/sharedassets0.assets" }}
-,{ "pid":12345, "tid":7, "ts":1654591710589806, "dur":5, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/sharedassets2.resource" }}
-,{ "pid":12345, "tid":7, "ts":1654591710589814, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1654591710589821, "dur":16019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/sharedassets2.resource" }}
-,{ "pid":12345, "tid":7, "ts":1654591710605847, "dur":7899, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Net.Http.dll" }}
-,{ "pid":12345, "tid":7, "ts":1654591710613753, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1654591710613787, "dur":1035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/System.Net.Http.dll" }}
-,{ "pid":12345, "tid":7, "ts":1654591710614831, "dur":86265, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1654591710450752, "dur":1461, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1654591710452213, "dur":1303, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1654591710453527, "dur":3574, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":8, "ts":1654591710457108, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1654591710457171, "dur":997, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/Managed/UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":8, "ts":1654591710458204, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
-,{ "pid":12345, "tid":8, "ts":1654591710458241, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1654591710458477, "dur":630, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
-,{ "pid":12345, "tid":8, "ts":1654591710459117, "dur":1362, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
-,{ "pid":12345, "tid":8, "ts":1654591710460484, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1654591710460550, "dur":138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/pruebajuego_Data/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
-,{ "pid":12345, "tid":8, "ts":1654591710460694, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Escritorio/UnityPlayer.so" }}
-,{ "pid":12345, "tid":8, "ts":1654591710460710, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1654591710460714, "dur":240311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Escritorio/UnityPlayer.so" }}
-,{ "pid":12345, "tid":8, "ts":1654591710701038, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
-,{ "pid":12345, "tid":8, "ts":1654591710701043, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1654591710702781, "dur":603, "ph":"X", "name": "ProfilerWriteOutput" }
-,{ "pid": 0, "tid": 1, "ts": 1654591710709873, "dur": 747, "ph": "X", "name": "backend_profiler1.traceevents", "args": {} },
-{ "pid": 0, "tid": 1, "ts": 1654591710709315, "dur": 1323, "ph": "X", "name": "Write chrome-trace events", "args": {} },
+,{ "pid":12345, "tid":0, "ts":1654957093629028, "dur":826, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093629869, "dur":33, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1654957093629917, "dur":22, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1654957093629939, "dur":350, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1654957093630332, "dur":762, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093631094, "dur":4, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093738026, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093738030, "dur":24, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093738054, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093738055, "dur":13, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093738068, "dur":1271, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093739340, "dur":18, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093739358, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093739359, "dur":9, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093739368, "dur":22, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093739390, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093739398, "dur":11, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093739409, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093739416, "dur":10, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093739426, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093739433, "dur":9, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093739442, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093739449, "dur":1, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093739471, "dur":6, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093739478, "dur":1289, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1654957093630064, "dur":1045, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093631115, "dur":1381, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093632499, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/LinuxPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1654957093632501, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093632563, "dur":101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1654957093632721, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093633382, "dur":217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1654957093633610, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1654957093633628, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093633641, "dur":174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1654957093633825, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/x86_64/libMonoPosixHelper.so" }}
+,{ "pid":12345, "tid":1, "ts":1654957093633841, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093633910, "dur":965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/x86_64/libMonoPosixHelper.so" }}
+,{ "pid":12345, "tid":1, "ts":1654957093634885, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654957093634935, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093634965, "dur":138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654957093635109, "dur":1239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654957093636354, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093636364, "dur":3288, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654957093639659, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654957093639763, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093639770, "dur":298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654957093640072, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654957093640118, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093640124, "dur":104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654957093640231, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654957093640282, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093640287, "dur":193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654957093640486, "dur":4880, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654957093645373, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093645383, "dur":16388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654957093661778, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":1, "ts":1654957093661792, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093661801, "dur":146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":1, "ts":1654957093661952, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/level1" }}
+,{ "pid":12345, "tid":1, "ts":1654957093661963, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093661971, "dur":181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/level1" }}
+,{ "pid":12345, "tid":1, "ts":1654957093662158, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1654957093662170, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093662178, "dur":269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1654957093662453, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654957093662549, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093662559, "dur":299, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654957093662864, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/x86_64/libmono-native.so" }}
+,{ "pid":12345, "tid":1, "ts":1654957093662885, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093662902, "dur":7748, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/x86_64/libmono-native.so" }}
+,{ "pid":12345, "tid":1, "ts":1654957093670666, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1654957093670679, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093670690, "dur":315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1654957093671012, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1654957093671066, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093671074, "dur":125, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1654957093671205, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1654957093671245, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093671253, "dur":117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1654957093671376, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1654957093671419, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093671426, "dur":129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1654957093671561, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1654957093671572, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093671580, "dur":5286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1654957093676874, "dur":69, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654957093676949, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093676959, "dur":218, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654957093677183, "dur":356, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654957093677544, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093677554, "dur":1128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1654957093678691, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":1, "ts":1654957093678705, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1654957093678714, "dur":9694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":1, "ts":1654957093688414, "dur":49564, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654957093630066, "dur":1054, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654957093631121, "dur":1394, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654957093632518, "dur":390, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654957093632915, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654957093633571, "dur":283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1654957093633860, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1654957093633875, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654957093633914, "dur":297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1654957093634226, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1654957093634244, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654957093634313, "dur":197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":2, "ts":1654957093634521, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1654957093634538, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654957093634573, "dur":232, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1654957093634816, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/UnityPlayer.so" }}
+,{ "pid":12345, "tid":2, "ts":1654957093634836, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1654957093634846, "dur":103018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/UnityPlayer.so" }}
+,{ "pid":12345, "tid":2, "ts":1654957093737879, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":2, "ts":1654957093737882, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654957093630146, "dur":987, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654957093631133, "dur":1412, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654957093632547, "dur":574, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093633128, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654957093633299, "dur":505, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093633812, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1654957093633830, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654957093633914, "dur":160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1654957093637632, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093637779, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654957093637788, "dur":3363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093641158, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093641213, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654957093641223, "dur":944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093642175, "dur":156, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093642338, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654957093642351, "dur":508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093642866, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093642938, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654957093642949, "dur":224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093643179, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093643242, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654957093643253, "dur":325, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093643584, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093643637, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654957093643648, "dur":169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093643823, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093643876, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654957093643885, "dur":159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093644049, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093644121, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654957093644131, "dur":151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093644289, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":3, "ts":1654957093644303, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654957093644311, "dur":26302, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":3, "ts":1654957093670621, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093670683, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654957093670694, "dur":216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1654957093670917, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1654957093670930, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1654957093670938, "dur":9801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1654957093680750, "dur":58527, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093630155, "dur":986, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093631142, "dur":1362, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093632509, "dur":527, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093633043, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093633309, "dur":729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093634046, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093634103, "dur":30, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093634144, "dur":170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093634322, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1654957093634339, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093634362, "dur":825, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1654957093635197, "dur":181, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093635384, "dur":22, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093635415, "dur":511, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093635933, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093635982, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093635991, "dur":146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093636143, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1654957093636159, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093636230, "dur":139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1654957093636378, "dur":73, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093636456, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093636466, "dur":267, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093636739, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093636843, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093636853, "dur":295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093637153, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093637218, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093637228, "dur":3354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093640588, "dur":573, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093641167, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093641179, "dur":1787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093642973, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093643026, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093643036, "dur":159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093643202, "dur":298, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093643506, "dur":46, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093643562, "dur":953, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093644523, "dur":158, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093644687, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093644696, "dur":434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093645137, "dur":65, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093645208, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093645217, "dur":233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093645456, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093645513, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093645523, "dur":151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093645681, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093645777, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093645786, "dur":296, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093646090, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093646149, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093646158, "dur":184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093646348, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093646421, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093646430, "dur":202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093646639, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093646688, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093646697, "dur":149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093646851, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093646899, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093646908, "dur":121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093647035, "dur":332, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093647374, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093647382, "dur":1003, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093648391, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093648545, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093648554, "dur":495, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093649055, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093649103, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093649113, "dur":145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":4, "ts":1654957093649264, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1654957093649286, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093649309, "dur":16752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":4, "ts":1654957093666075, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1654957093666090, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1654957093666101, "dur":27689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1654957093693799, "dur":44283, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093630215, "dur":937, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093631152, "dur":1359, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093632515, "dur":543, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093633067, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093633462, "dur":941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093634409, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1654957093634425, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093634444, "dur":1130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1654957093635584, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093635650, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093635660, "dur":203, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093635871, "dur":169, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093636047, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093636055, "dur":524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093636590, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093636643, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093636656, "dur":180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093636843, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093636920, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093636929, "dur":247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093637183, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093637234, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093637244, "dur":809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093638061, "dur":870, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093638937, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093638947, "dur":3076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093642030, "dur":4610, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093646649, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093646660, "dur":3829, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093650496, "dur":206, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093650709, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093650741, "dur":546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093651293, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1654957093651305, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093651314, "dur":8214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1654957093659536, "dur":121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093659663, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093659673, "dur":397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093660076, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093660123, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093660133, "dur":158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093660303, "dur":119, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093660428, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093660437, "dur":287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1654957093660731, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1654957093660743, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093660751, "dur":153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":5, "ts":1654957093660911, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":5, "ts":1654957093660945, "dur":11, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093661041, "dur":121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":5, "ts":1654957093661174, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1654957093661343, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093661357, "dur":2474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1654957093663859, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so" }}
+,{ "pid":12345, "tid":5, "ts":1654957093663879, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1654957093663891, "dur":22475, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/x86_64/libmonobdwgc-2.0.so" }}
+,{ "pid":12345, "tid":5, "ts":1654957093686384, "dur":51635, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093630227, "dur":934, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093631161, "dur":1357, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093632520, "dur":239, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093632769, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093633391, "dur":251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093633649, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1654957093633668, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093633715, "dur":445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1654957093634171, "dur":15, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1654957093634277, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093634314, "dur":284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1654957093634610, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093634667, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093634679, "dur":182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093634870, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093634930, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093634942, "dur":173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093635121, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093635174, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093635182, "dur":151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093635339, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1654957093635356, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093635457, "dur":137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1654957093635605, "dur":117, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093635728, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093635738, "dur":305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093636050, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093636099, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093636112, "dur":141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093636260, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1654957093636277, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093636398, "dur":139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1654957093636546, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093636635, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093636645, "dur":219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093636871, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093636939, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093636949, "dur":726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093637685, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093637797, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093637808, "dur":3234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093641051, "dur":400, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093641457, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093641466, "dur":8116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093649590, "dur":166, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093649762, "dur":7, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093649779, "dur":528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093650314, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093650378, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093650388, "dur":196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093650591, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/level2" }}
+,{ "pid":12345, "tid":6, "ts":1654957093650618, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093650625, "dur":3337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/level2" }}
+,{ "pid":12345, "tid":6, "ts":1654957093653970, "dur":204, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093654181, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093654191, "dur":524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093654723, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093654796, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093654807, "dur":222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093655037, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093655108, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093655117, "dur":220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093655343, "dur":100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093655473, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093655484, "dur":330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093655821, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093655870, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093655883, "dur":144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093656033, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093656084, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093656093, "dur":147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093656246, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093656300, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093656309, "dur":178, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093656494, "dur":1098, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093657599, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093657609, "dur":13711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093671327, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093671443, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093671452, "dur":357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093671815, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1654957093671827, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093671836, "dur":4300, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1654957093676147, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/level3" }}
+,{ "pid":12345, "tid":6, "ts":1654957093676161, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093676173, "dur":227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/level3" }}
+,{ "pid":12345, "tid":6, "ts":1654957093676407, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093676472, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093676482, "dur":176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093676664, "dur":1449, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093678120, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1654957093678129, "dur":4571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1654957093682710, "dur":55300, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093630285, "dur":886, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093631171, "dur":1328, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093632507, "dur":244, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093632759, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093633280, "dur":283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093633571, "dur":14, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1654957093633591, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093633640, "dur":275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1654957093633927, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1654957093633949, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093633968, "dur":385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1654957093634361, "dur":10, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1654957093634376, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093634444, "dur":207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1654957093634663, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars.x86_64" }}
+,{ "pid":12345, "tid":7, "ts":1654957093634676, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093634684, "dur":216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars.x86_64" }}
+,{ "pid":12345, "tid":7, "ts":1654957093634907, "dur":2944, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093637858, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093637867, "dur":12222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093650097, "dur":278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093650382, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093650393, "dur":871, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093651271, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1654957093651282, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093651290, "dur":153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1654957093651449, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/level2.resS" }}
+,{ "pid":12345, "tid":7, "ts":1654957093651459, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093651467, "dur":707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/level2.resS" }}
+,{ "pid":12345, "tid":7, "ts":1654957093652181, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093652242, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093652253, "dur":235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093652494, "dur":3, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/app.info" }}
+,{ "pid":12345, "tid":7, "ts":1654957093652501, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093652509, "dur":123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/app.info" }}
+,{ "pid":12345, "tid":7, "ts":1654957093652633, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093652680, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093652689, "dur":184, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093652880, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093652934, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093652943, "dur":169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093653118, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093653169, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093653179, "dur":159, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093653344, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093653393, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093653402, "dur":153, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093653561, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093653609, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093653619, "dur":166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093653791, "dur":3687, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093657485, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093657495, "dur":11686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":7, "ts":1654957093669193, "dur":9, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1654957093669207, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093669217, "dur":4060, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1654957093673284, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":7, "ts":1654957093673336, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1654957093673347, "dur":17648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":7, "ts":1654957093691005, "dur":46958, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093630297, "dur":881, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093631178, "dur":1368, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093632548, "dur":381, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093632938, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093634228, "dur":241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093634476, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1654957093634492, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093634513, "dur":128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1654957093634650, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1654957093634667, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093634682, "dur":1091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1654957093635785, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093635866, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093635880, "dur":175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093636061, "dur":7, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Resources/UnityPlayer.png" }}
+,{ "pid":12345, "tid":8, "ts":1654957093636073, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093636147, "dur":163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Resources/UnityPlayer.png" }}
+,{ "pid":12345, "tid":8, "ts":1654957093636316, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093636400, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093636410, "dur":242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093636662, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093636718, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093636728, "dur":174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093636909, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093636959, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093636967, "dur":441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093637415, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093637481, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093637490, "dur":3135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093640634, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093640689, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093640699, "dur":1397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093642102, "dur":50, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093642157, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093642167, "dur":170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093642343, "dur":2580, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093644929, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093644938, "dur":7665, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093652611, "dur":187, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093652804, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093652816, "dur":594, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093653416, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093653469, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093653479, "dur":131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093653617, "dur":209, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093653833, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093653842, "dur":663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093654512, "dur":51, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093654569, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093654578, "dur":166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093654751, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093654804, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093654814, "dur":176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093655003, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093655235, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093655244, "dur":699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093655950, "dur":470, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093656426, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093656435, "dur":1507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093657949, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.ProGrids.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093658002, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093658043, "dur":137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/Unity.ProGrids.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093658186, "dur":8, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":8, "ts":1654957093658199, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093658207, "dur":6054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":8, "ts":1654957093664268, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/config" }}
+,{ "pid":12345, "tid":8, "ts":1654957093664320, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093664348, "dur":149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/MonoBleedingEdge/etc/config" }}
+,{ "pid":12345, "tid":8, "ts":1654957093664506, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093664567, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093664577, "dur":199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1654957093664783, "dur":6, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles /home/alextangram/Documentos/juego/SkeletonWars_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1654957093664794, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1654957093664802, "dur":15075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"/home/alextangram/Documentos/juego/SkeletonWars_Data/resources.assets" }}
+,{ "pid":12345, "tid":8, "ts":1654957093679886, "dur":58049, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1654957093741526, "dur":1136, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid": 0, "tid": 1, "ts": 1654957093748232, "dur": 941, "ph": "X", "name": "backend_profiler1.traceevents", "args": {} },
+{ "pid": 0, "tid": 1, "ts": 1654957093747795, "dur": 1393, "ph": "X", "name": "Write chrome-trace events", "args": {} },
